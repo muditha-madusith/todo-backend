@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "build": "echo `Running Build script`"
   },
   "author": "",
   "license": "ISC",
